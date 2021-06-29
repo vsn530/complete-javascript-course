@@ -10,8 +10,8 @@ console.log(`I am from ${country} which is in ${continent} continent, Our countr
 
 
 // 
-setTimeout(() => {
-    console.log('running after 1 second from assignments.js');
-}, 1000);
+// setTimeout(() => {
+//     console.log('running after 1 second from assignments.js');
+// }, 1000);
 
 console.log('End of assignments.js');
